@@ -1,6 +1,6 @@
 # Diario-Net
 <h1 align="center">Hi 👋 , soy Federico Montarcé</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Argenntina</h3>
+<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
 - 🔭 Actualmente estoy trabajando en **Bootstrap**
 
